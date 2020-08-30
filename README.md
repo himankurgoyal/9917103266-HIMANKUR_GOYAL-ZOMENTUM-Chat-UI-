@@ -5,7 +5,7 @@ Description:
 
 1)I have designed this UI for chat Application with the help of HTML, CSS, JS using Bootstap Framework.
 
-2)At the Home page,there would be an BLUE ARROW ON RIGHT SIDE,on clicking of which Contact list of all Chats appears from right, it also indicates offline/online status of each contact.     #refer-Screenshot1(Main-Window-RightSide-Arrow)/ScreenShot2(Side-contact-list)
+2)At the Home page,there would be an BLUE ARROW ON RIGHT SIDE on clicking which, Contact list of all Chats appears from right, it also indicates offline/online status of each contact.     #refer-Screenshot1(Main-Window-RightSide-Arrow)/ScreenShot2(Side-contact-list)
 
 3)You can further open the chatbox of that particular contact by a simple click on that. After which you can start chatting.    #refer-Screenshot3(Chatbox)
 
