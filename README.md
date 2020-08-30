@@ -13,7 +13,7 @@
 
 6)All side buttons for emoji and to send the message are present on the either side of typing bar. 
 
-7)One useful feature i provide is that their would be another secion in emoji feature Called "Recent used" where all the recently used emoji are stored so you can directly 
+7)One useful feature i provide is that their would be another secion in emoji feature called "Recent used" where all the recently used emoji are stored so you can directly 
   access you favourite and most used emoji faster.
 
 8)It Perfectly fulfills all the desired mechanism necessary for Chat Application.
