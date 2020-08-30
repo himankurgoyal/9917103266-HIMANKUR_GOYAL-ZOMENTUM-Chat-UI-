@@ -1,7 +1,9 @@
 # 9917103266-HIMANKUR_GOYAL- ZOMENTUM HIRING ASSIGNMENT- UI- CHAT APPLICATION
-#Frontend Project- UI for Chat Application 
+#Frontend Project- UI for Chat Application
 
-1)I have design a UI for chat Application with the help of HTML, CSS, JS using Bootstap Framework.
+Description:
+
+1)I have designed this UI for chat Application with the help of HTML, CSS, JS using Bootstap Framework.
 
 2)On the main page,right side there would be an arrow,on clicking of which a chat window appears from right which contain the contacts list of all chats, also indicates     offline/online status of each contact.
 
