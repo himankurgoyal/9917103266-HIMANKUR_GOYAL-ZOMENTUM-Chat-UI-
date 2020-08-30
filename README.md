@@ -18,4 +18,4 @@
 8)I have attached all the screenshots for Web view as well as for Mobile view justify above mentioned points.
 
 
-
+Link to access the UI for Chat Application: https://himankurgoyal.github.io/ZomentumProject/
