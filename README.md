@@ -11,11 +11,14 @@
 
 5)Chatboxes for more than one contacts can be open simultaneously means you can append messages for more than one contact at the same time.
 
-6)All side buttons for emoji and to attach file are present on the either side of typing bar.
+6)All side buttons for emoji and to send the message are present on the either side of typing bar. 
 
-7)It Perfectly fulfills all the desired mechanism necessary for Chat Application.
+7)One useful feature i provide is that their would be another secion in emoji feature Called "Recent used" where all the recently used emoji are stored so you can directly 
+  access you favourite and most used emoji faster.
 
-8)I have attached all the screenshots for Web view as well as for Mobile view justify above mentioned points.
+8)It Perfectly fulfills all the desired mechanism necessary for Chat Application.
+
+9)I have attached all the screenshots for Web view as well as for Mobile view justify above mentioned points.
 
 
 Link to access the UI for Chat Application: https://himankurgoyal.github.io/ZomentumProject/
